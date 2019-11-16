@@ -1,0 +1,11 @@
+﻿TOPIC
+	about_PSSolarEdge
+	
+SHORT DESCRIPTION
+	Explains how to use the PSSolarEdge powershell module
+	
+LONG DESCRIPTION
+	<Insert Content here>
+
+KEYWORDS
+	PSSolarEdge
