@@ -39,7 +39,7 @@
 	# FormatsToProcess = @('xml\PSSolarEdge.Format.ps1xml')
 	
 	# Functions to export from this module
-	FunctionsToExport = ''
+	FunctionsToExport = 'Connect-SolarEdge'
 	
 	# Cmdlets to export from this module
 	CmdletsToExport = ''
