@@ -1,1 +1,11 @@
-﻿
+﻿TOPIC
+	about_PSSolarEdge
+	
+SHORT DESCRIPTION
+	Roept de SolarEdge API eindpunt op om zonnecel- en materiaal informatie op te vragen.
+	
+LONG DESCRIPTION
+    De PSSolarEdge PowerShell module vereenvoudigt de SolarEdge API om informatie over de zonnepanelen en het materiaal op te vragen.
+
+KEYWORDS
+	PSSolarEdge, SolarEdge, SolarEdge API

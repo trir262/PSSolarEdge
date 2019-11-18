@@ -2,10 +2,10 @@
 	about_PSSolarEdge
 	
 SHORT DESCRIPTION
-	Explains how to use the PSSolarEdge powershell module
+	Calls the SolarEdge API endpoint to get solar cell and equipment information.
 	
 LONG DESCRIPTION
-	<Insert Content here>
+	The PSSolarEdge PowerShell module simplifies calls to the SolarEdge API to get your solar cell and solar equipment information.
 
 KEYWORDS
-	PSSolarEdge
+	PSSolarEdge, SolarEdge, SolarEdge API
