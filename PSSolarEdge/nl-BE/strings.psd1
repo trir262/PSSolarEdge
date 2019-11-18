@@ -2,5 +2,5 @@
 # Write-PSFMessage, Stop-PSFFunction or the PSFramework validation scriptblocks
 @{
 	'key' = 'Value';
-#	'connecterror' = 'Unable to connect'
+#	'connecterror' = 'Kan niet verbinden'
 }

@@ -39,7 +39,11 @@
 	# FormatsToProcess = @('xml\PSSolarEdge.Format.ps1xml')
 	
 	# Functions to export from this module
-	FunctionsToExport = 'Connect-SolarEdge'
+	FunctionsToExport = @('Connect-SolarEdge'
+		, 'Get-SolarAPISupportedVersion', 'Get-SolarAPIVersion'
+		, 'Get-SolarEquipmentData', 'Get-SolarEquipmentList', 'Get-SolarEquipmentSensor'
+		, 'Get-SolarSite', 'Get-SolarSiteBenefit', 'Get-SolarSiteData', 'Get-SolarSiteDetail', 'Get-SolarSiteEnergy', 'Get-SolarSiteInventory'
+		, 'Get-SolarSiteMeter', 'Get-SolarSiteOverview', 'Get-SolarSitePower', 'Get-SolarSitePowerDetails', 'Get-SolarSitePowerFlow')
 	
 	# Cmdlets to export from this module
 	CmdletsToExport = ''

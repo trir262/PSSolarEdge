@@ -79,3 +79,4 @@ if ($importIndividualFiles)
 #region Load compiled code
 "<compile code into here>"
 #endregion Load compiled code
+# Write-PSFMessage -String 'connecterror' key is found in strings.psd1 files
